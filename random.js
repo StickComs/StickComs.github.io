@@ -5,7 +5,7 @@ var sites = [
 
     function randomSite() {
         var i = parseInt(Math.random() * sites.length);
-        var link = 'stickcoms.com/archive/' + sites[i];
+        var link = '/archive/' + sites[i];
         location.href = link;
         return false;
     }
