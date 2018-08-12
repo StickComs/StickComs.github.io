@@ -1,5 +1,5 @@
 function archiveSite() {
-  var link = '/archive2018';
+  var link = 'https://stickcoms.github.io/archive2018';
   location.href = link;
   return false;
 }
