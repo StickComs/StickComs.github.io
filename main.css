@@ -113,3 +113,8 @@ footer {
   width: 15%;
   max-width: 140px;
 }
+
+/* Donate -------------------------------*/
+.donate_logo {
+  max-width: 100%;
+}
