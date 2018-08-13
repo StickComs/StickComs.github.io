@@ -116,5 +116,7 @@ footer {
 
 /* Donate -------------------------------*/
 .donate_logo {
+  max-width: 100%;
   margin: 10px;
+  margin-bottom: 30px !important;
 }
