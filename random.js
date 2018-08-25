@@ -1,6 +1,7 @@
 var sites = [
         '1_light_traffic',
-        '2_writing_prompt'
+        '2_writing_prompt',
+        '3_love_at_first_sight'
     ];
 
     function randomSite() {
