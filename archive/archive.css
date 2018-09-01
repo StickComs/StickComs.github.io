@@ -107,14 +107,6 @@ form{
     background-color: #555; /* Add a dark-grey background on hover */
 }
 
-/* Footer -------------------------------*/
-footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: LightGray;
-  text-align: center;
-}
-
 /* Nav Buttons --------------------------*/
 .nav_button {
   width: 15%;
@@ -123,7 +115,11 @@ footer {
 
 /* Footer -------------------------------*/
 footer {
-   position:absolute;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: LightGray;
+  text-align: center;
+  position:absolute;
    bottom:0;
-   width:100%;   
+   width:100%;
 }
