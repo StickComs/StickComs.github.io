@@ -118,3 +118,10 @@ footer {
 .donate_logo {
   max-width: 95%;
 }
+
+/* Footer -------------------------------*/
+footer {
+   position:absolute;
+   bottom:0;
+   width:100%;   
+}
