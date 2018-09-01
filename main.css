@@ -111,13 +111,17 @@ form{
   max-width: 95%;
 }
 
-/* Footer -------------------------------*/
+/* Footer stay at bottom ----------------*/
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: LightGray;
-  text-align: center;
-  position:relative;
-  bottom:0;
-  width:100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #d3d3d3;
+    position: absolute;
+    bottom: 0;
+    width: 100%
 }
