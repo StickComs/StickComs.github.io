@@ -11,7 +11,7 @@ var phrases = [
   'Pie? 7/10. Ice cream? 8/10. You? 10/10.',
   'Want to see a star up close? Look down. You. You\'re the star.',
   'Sometimes things just don\'t work out, but that\'s okay.',
-  'Poultry farmers are just chicken tenders.'
+  'Poultry farmers are also chicken tenders.'
 ]
 
 function newPhrase() {
