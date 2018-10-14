@@ -3,7 +3,8 @@ var sites = [
         '2_writing_prompt',
         '3_dog_love',
         '4_shipping',
-        '5_weird'
+        '5_weird',
+        '6_suspicion'
     ];
 
     function randomSite() {
